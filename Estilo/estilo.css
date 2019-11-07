@@ -1,0 +1,15 @@
+h1{text-align: center; font-style: oblique;}
+p{text-align: center;}
+.encabezado{color: black; background-color: white; border:3px solid black}
+.negro  {background-color: #000000; color:white;}
+.negro1 {background-color: #080808; color:white;}
+.negro2 {background-color: #171717; color:white;}
+.negro3 {background-color: #2C2C2C; color:white;}
+.negro4 {background-color: #3D3D3D; color:white;}
+.negro5 {background-color: #6C6C6C; color:white;}
+.negro6 {background-color: #919191; color:white;}
+.negro7 {background-color: #AFAFAF; color:white;}
+.negro8 {background-color: #D4D4D4; color:white;}
+.negro9 {background-color: #F0F0F0; color:black;}
+td{text-align: center;}
+.numeracion{font-weight: bold;font-style: oblique;}
